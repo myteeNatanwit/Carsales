@@ -1,5 +1,5 @@
 # Carsales
-Swift 4- Demo of Casales app
+Swift 4- Demo of CarSales app
 ## Notes:
 1-	Query  
 https://app-car.carsalesnetwork.com.au/stock/car/test/v1/listing/?username=test&password=2h7H53eXsQupXvkz <br>
