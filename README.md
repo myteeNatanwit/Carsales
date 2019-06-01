@@ -16,5 +16,5 @@ https://app-car.carsalesnetwork.com.au/stock/car/test/v1/listing/?username=test&
 ![](https://github.com/myteeNatanwit/Carsales/raw/master/ipad.gif)
 
 ## issues
-1- IP+ scalling is not accurate. Assume support IOS 10. IOS 12 is ok.
+1- IP+ scalling is not accurate. Assume support IOS 10. IOS 12 is ok.<br>
 2- IP+ rotation has tiny gap, not in other IPs. Still dont know why.
