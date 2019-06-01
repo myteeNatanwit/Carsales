@@ -1,4 +1,4 @@
-# Carsales
+# CarSales
 Swift 4- Demo of CarSales app
 ## Notes:
 1-	Query  
