@@ -15,6 +15,10 @@ https://app-car.carsalesnetwork.com.au/stock/car/test/v1/listing/?username=test&
 ![](https://github.com/myteeNatanwit/Carsales/raw/master/ip.gif)
 ![](https://github.com/myteeNatanwit/Carsales/raw/master/ipad.gif)
 
-## issues
+## Issues
 1- IP+ scalling is not accurate. Assume the app supports IOS 10. IOS 12 is ok.<br>
 2- IP+ rotation has tiny gap, not in other IPs. Still dont know why.
+
+## Credit
+Khoa Pham, onmyway133@gmai.com with Dropdown menu https://github.com/onmyway133/Dropdowns.
+
